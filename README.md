@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jcchikikomori&label=Profile%20views&color=0e75b6&style=flat" alt="jcchikikomori" /> </p>
 
-- 🌱 I’m currently learning **PHP, NodeJS, Flutter, Ruby, etc.**
+- 🌱 I’m currently learning **PHP, NodeJS, Flutter, Ruby, AWS, etc.**
 
 - 👨‍💻 All of my projects are available at [https://jcchikikomori.github.io/portfolio](https://jcchikikomori.github.io/portfolio)
 
