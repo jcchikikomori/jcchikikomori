@@ -2,13 +2,13 @@
 <p align="center"><i>"Kamusta" means "How are you" or "Howdy"</i></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jcchikikomori&label=Profile%20views&color=0e75b6&style=flat" alt="jcchikikomori" /> </p>
 
-- 🌱 I’m currently learning **PHP, NodeJS, Java, Ruby, AWS, etc.**
+- 🌱 I’m currently learning **PHP, NodeJS, Java, Groovy, Ruby, AWS, etc.**
 
 - 👨‍💻 All of my projects are available at [https://jcchikikomori.github.io/portfolio](https://jcchikikomori.github.io/portfolio)
 
 - 📝 I regularly write articles on [https://jcchikikomori.github.io/blog](https://jcchikikomori.github.io/blog)
 
-- 💬 Ask me about **NodeJS, Android, PHP, CSS, HTML**
+- 💬 Ask me about **NodeJS, Android, Web Development**
 
 - 📫 How to reach me **jccorsanes@protonmail.com**
 
