@@ -16,10 +16,27 @@
 
 - ⚡ Fun fact **I am curious on many things**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Platforms</h3>
 
-<div style="display: flex; margin: 1rem; padding: 1.3rem; background-color: #3b4d40; border-radius: 1rem;">
+<div style="display: flex; margin: 1rem; padding: 1.3rem; background-color: #2d2e2d; border-radius: 1rem;">
     <p align="left">
+        <a href="https://www.microsoft.com/windows" target="_blank">
+            <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"
+            alt="windows8"
+            width="40"
+            height="40"
+            />
+        </a>
+        <a href="https://www.apple.com/" target="_blank">
+            <img
+            src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg"
+            style="color: white"
+            alt="apple"
+            width="40"
+            height="40"
+            />
+        </a>
         <a href="https://developer.android.com" target="_blank">
             <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -28,6 +45,22 @@
             height="40"
             />
         </a>
+        <a href="https://www.linux.org/" target="_blank">
+            <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+            alt="linux"
+            width="40"
+            height="40"
+            />
+        </a>
+    </p>
+</div>
+
+
+<h3 align="left">Languages and Tools</h3>
+
+<div style="display: flex; margin: 1rem; padding: 1.3rem; background-color: #2d2e2d; border-radius: 1rem;">
+    <p align="left">
         <a href="https://circleci.com" target="_blank">
             <img
             src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg"
@@ -115,14 +148,6 @@
             <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript"
-            width="40"
-            height="40"
-            />
-        </a>
-        <a href="https://www.linux.org/" target="_blank">
-            <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-            alt="linux"
             width="40"
             height="40"
             />
@@ -219,6 +244,30 @@
             <img
             src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
             alt="webpack"
+            width="40"
+            height="40"
+            />
+        </a>
+        <a href="https://groovy-lang.org/" target="_blank">
+            <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg"
+            alt="groovy"
+            width="40"
+            height="40"
+            />
+        </a>
+        <a href="https://grails.org/" target="_blank">
+            <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grails/grails-original.svg"
+            alt="grails"
+            width="40"
+            height="40"
+            />
+        </a>
+        <a href="https://www.oracle.com/" target="_blank">
+            <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+            alt="oracle"
             width="40"
             height="40"
             />
