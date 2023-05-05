@@ -1,6 +1,6 @@
-<h1 align="center">Kamusta! I'm John Cyrill Corsanes</h1>
-<p align="center"><i>"Kamusta" means "How are you" or "Howdy"</i></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jcchikikomori&label=Profile%20views&color=0e75b6&style=flat" alt="jcchikikomori" /> </p>
+<h1>Kamusta! I'm John Cyrill Corsanes</h1>
+<p><i>"Kamusta" means "How are you" or "Howdy"</i></p>
+<p><img src="https://komarev.com/ghpvc/?username=jcchikikomori&label=Profile%20views&color=0e75b6&style=flat" alt="jcchikikomori" /></p>
 
 - 🌱 I’m currently learning **PHP, NodeJS, Java, Groovy, Ruby, AWS, etc.**
 
