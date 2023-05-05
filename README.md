@@ -1,4 +1,4 @@
-<h1>Kamusta! I'm John Cyrill Corsanes</h1>
+<h1>Kamusta! Welcome to my profile!</h1>
 <p><i>"Kamusta" means "How are you" or "Howdy"</i></p>
 <p><img src="https://komarev.com/ghpvc/?username=jcchikikomori&label=Profile%20views&color=0e75b6&style=flat" alt="jcchikikomori" /></p>
 
