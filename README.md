@@ -2,7 +2,7 @@
 <p><i>"Kamusta" means "How are you" or "Howdy"</i></p>
 <p><img src="https://komarev.com/ghpvc/?username=jcchikikomori&label=Profile%20views&color=0e75b6&style=flat" alt="jcchikikomori" /></p>
 
-- 🌱 I’m currently learning **A.I, NodeJS, Java, Microsoft Azure & D365, AWS, Google Cloud, etc.**
+- 🌱 I’m currently learning **Generative A.I, NodeJS, Java, Laravel, Cloud services (Microsoft, Amazon), etc.**
 
 - 👨‍💻 All of my projects are available at [https://jcchikikomori.github.io/portfolio](https://jcchikikomori.github.io/portfolio)
 
